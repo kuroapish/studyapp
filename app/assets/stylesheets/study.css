@@ -6,3 +6,9 @@ html,body,div,span,iframe,h1,h2,h3,h4,h5,p,a,img,ul,li,table,tr,th,td,tbody,foot
 	list-style: none;
 	text-decoration: none;
 }
+body {
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+body {
+	width: 100%;
+}
