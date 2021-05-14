@@ -12,3 +12,17 @@ body {
 body {
 	width: 100%;
 }
+#header_inner,.main_contact,#section02_inner,#company {
+	width: 960px;
+	margin: 0 auto;
+}
+#header_inner {
+	height: 85px;
+	position: relative;
+}
+#header_logo,#header_contact,#header_text {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+}
