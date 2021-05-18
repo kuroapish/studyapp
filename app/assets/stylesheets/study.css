@@ -47,3 +47,11 @@ body {
 #header_contact_inner:hover {
     transform: scale(1.1,1.1);
 }
+#header_contact_inner p {
+	color: #fff;
+}
+#header_text {
+	width: 243px;
+	height: 29px;
+	right: 155px;
+}
