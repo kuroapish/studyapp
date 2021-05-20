@@ -71,3 +71,18 @@ body {
 	background: url(https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/6432841/picture_pc_e9cd48501e8ad5f03a13bfefcf9e1f19.jpg) no-repeat;
 	background-size:cover;
 }
+h1 {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	width: 500px;
+	height: 85px;
+	margin: auto;
+	color: #ccc;
+	font-size: 4.3rem;
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+}
