@@ -86,3 +86,24 @@ h1 {
 	display: table-cell;
 	vertical-align: middle;
 }
+.scroll {
+	height: 87px;
+	width: 100%;
+	background-color: #aaa;
+	position: relative;
+	display: table;
+}
+.scroll:after {
+	content: "";
+	display: block;
+	width: 0px;
+	height: 0px;
+	bottom: -14px;
+	border-top: 43px solid #aaa;
+	border-right: 60px solid transparent;
+	border-left: 60px solid transparent;
+	left: 0;
+	right: 0;
+	margin: auto;
+	position: absolute;
+}
