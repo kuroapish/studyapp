@@ -107,3 +107,15 @@ h1 {
 	margin: auto;
 	position: absolute;
 }
+h2 {
+	color: #fff;
+	font-size: 1.9rem;
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+}
+nav {
+	height: 396px;
+	width: 100%;
+	margin: 0 auto;
+}
