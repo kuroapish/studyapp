@@ -126,4 +126,18 @@ nav {
 	overflow: hidden;
 	margin: 0 auto;
 	padding: 88px 0;
+}#main_nav li {
+	float: left;
+	height: 225px;
+	width: 225px;
+	border: 2px solid #000;
+	border-radius: 50%;
+	position: relative;
+}
+#main_nav li:after {
+	content: "";
+	display: block;
+	position: absolute;
+	bottom: 22px;
+  right: 0;
 }
